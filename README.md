@@ -10,6 +10,7 @@ A simple educational software renderer. May it serve you well.
 * render textures
 * z-buffer
 * vertex/fragment shaders
+* frustum visualization
 
 ## What's missing
 * backface culling
